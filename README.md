@@ -6,45 +6,19 @@
 - 🎯 Mi proyecto más reciente: [Análisis de Videojuegos 2017](https://github.com/Jdavidaa01/VideoGames-data-analist)
 
 ### 🏆 Certificación TripleTen
-<table>
-  <tr>
-    <td width="50%">
-      <img src="Image.png" width="100%" alt="Insignia TripleTen David" />
-    </td>
-    <td width="50%" valign="top">
-      <br>
-      <strong>Aspirante a Data Scientist</strong><br>
-      <i>Validado por TripleTen Latam</i>
-      <br><br>
-      <b>Habilidades destacadas:</b>
-      <ul>
-        <li>Análisis de tendencias de mercado</li>
-        <li>Pruebas de hipótesis (T-test)</li>
-        <li>Limpieza y preparación de datos</li>
-        <li>Visualización con Matplotlib y Seaborn</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+![Insignia de David](Image.png)
+
+**Aspirante a Data Scientist** *Validado por TripleTen Latam* Habilidades: Análisis de tendencias, Pruebas de hipótesis, Limpieza de datos.
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jdavidaa01&show_icons=true&theme=radical&count_private=true&hide_border=false" width="48%" alt="Estadísticas Generales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdavidaa01&layout=compact&theme=radical&hide_border=false" width="43%" alt="Lenguajes más usados" />
-</p>
+### 📊 Mis Estadísticas
+![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=Jdavidaa01&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jdavidaa01&theme=radical&hide_border=false" width="91%" alt="Racha de contribuciones" />
-</p>
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdavidaa01&layout=compact&theme=radical)
+
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Jdavidaa01&theme=radical)
 
 ### 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdavidaa01/)
-
----
-*Analizando datos para descubrir patrones que impulsan el éxito.*
