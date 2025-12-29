@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola! Soy J. David 👋 
 
-<!--
-**Jdavidaa01/Jdavidaa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+- 🎓 Estudiante de **Data Science en TripleTen**.
+- 📊 Especializado en análisis estadístico y visualización con Python.
+- 🎯 Mi proyecto más reciente: [Análisis de Videojuegos 2017](https://github.com/Jdavidaa01/VideoGames-data-analist)
 
-Here are some ideas to get you started:
+### 🏆 Certificación TripleTen
+<table>
+  <tr>
+    <td width="50%">
+      <img src="Image.png" width="100%" alt="Insignia TripleTen David" />
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <strong>Aspirante a Data Scientist</strong><br>
+      <i>Validado por TripleTen Latam</i>
+      <br><br>
+      <b>Habilidades en este perfil:</b>
+      <ul>
+        <li>Análisis de tendencias de mercado</li>
+        <li>Pruebas de hipótesis (T-test)</li>
+        <li>Limpieza de datos complejos</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jdavidaa01&show_icons=true&theme=radical&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdavidaa01&layout=compact&theme=radical&hide_border=false" width="43%" />
+</p>
+
+### 📫 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jdavidaa01/)
