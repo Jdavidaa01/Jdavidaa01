@@ -31,10 +31,14 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jdavidaa01&show_icons=true&theme=radical&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdavidaa01&layout=compact&theme=radical&hide_border=false" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jdavidaa01&show_icons=true&theme=radical&count_private=true" width="48%" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdavidaa01&layout=compact&theme=radical" width="43%" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jdavidaa01&theme=radical" width="91%" />
 </p>
 
 ### 📫 Conéctate conmigo
